@@ -1,0 +1,10 @@
+C:\Users\ersin.canli\Desktop\BarCodeDemo-master\BarCodeDemo\bin\Debug\BarCodeDemo.exe.config
+C:\Users\ersin.canli\Desktop\BarCodeDemo-master\BarCodeDemo\bin\Debug\BarCodeDemo.exe
+C:\Users\ersin.canli\Desktop\BarCodeDemo-master\BarCodeDemo\bin\Debug\BarCodeDemo.pdb
+C:\Users\ersin.canli\Desktop\BarCodeDemo-master\BarCodeDemo\obj\Debug\BarkoOlusturucu.csprojResolveAssemblyReference.cache
+C:\Users\ersin.canli\Desktop\BarCodeDemo-master\BarCodeDemo\obj\Debug\BarCodeDemo.Form1.resources
+C:\Users\ersin.canli\Desktop\BarCodeDemo-master\BarCodeDemo\obj\Debug\BarCodeDemo.Properties.Resources.resources
+C:\Users\ersin.canli\Desktop\BarCodeDemo-master\BarCodeDemo\obj\Debug\BarkoOlusturucu.csproj.GenerateResource.Cache
+C:\Users\ersin.canli\Desktop\BarCodeDemo-master\BarCodeDemo\obj\Debug\BarCodeDemo.exe
+C:\Users\ersin.canli\Desktop\BarCodeDemo-master\BarCodeDemo\obj\Debug\BarCodeDemo.pdb
+C:\Users\ersin.canli\Desktop\BarCodeDemo-master\BarCodeDemo\bin\Debug\BarkodOlusturucu.exe.config
